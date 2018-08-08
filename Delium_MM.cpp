@@ -3,7 +3,7 @@
 #include <vector>
 #include <string>
 #include<bits/stdc++.h>
-using namespace std;
+using namespace std;cc
  
 // Declaring Globally
 string charmap[10];
